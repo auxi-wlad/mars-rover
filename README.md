@@ -25,7 +25,7 @@ The `execute` method takes a string of one-character move commands as input.
 
 It returns the final position of the rover after all the move commands have been executed.
 The position is shown as a set of coordinates and a direction, separated by colons to form a string.
-For example, a rover at position `2:3:W` is at square `(2,3)`, facing west.
+For example, a rover at position `5:1:W` is at square `(5,1)`, facing west.
 
 ### Examples
 
